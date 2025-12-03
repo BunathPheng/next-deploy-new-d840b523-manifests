@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: next-deploy-new-d840b523
-          image: docker.io/phengbunath/next-deploy-new-d840b523:3
+          image: docker.io/phengbunath/next-deploy-new-d840b523:4
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
